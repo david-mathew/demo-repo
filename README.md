@@ -4,6 +4,6 @@ Some plain text description here. Updated online!
 ## Sub-header
 Just doing some more... watch tutorial on youtube.
 
-## And adding some more Weds 11am
+## Local development 1452
 
-and updated from local
+Open index.html in your browser
